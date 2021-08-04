@@ -1,8 +1,28 @@
 # Hi there 👋 Welcome
 
-## I'm Devansh Shaw, self-taught Frontend Web Developer.
+![Devansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&theme=react-dark&hide_border=true&area=true)
+
+## About Me
+   A 3rd-year B.Tech lad who is a passionate Frontend Web Developer developer, Data-Science Enthusiast.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Devansh2000Shaw.Devansh2000Shaw)
+
+## 📫 Find me on:
+
+<table>
+  <tr>
+    <a href="https://www.linkedin.com/in/uzair-ali-9285261ba/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:the.akashshaw8783@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/zohan.ali__/">
+       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    </a>&nbsp;&nbsp;
+</table>
+
+## 🔭 What I am currenly working on
 
 - 🔭 I’m currently working on a website related to Mental Awarness.
 - 🌱 I’m currently learning Next Js, Data Structure & Algorithms along with MERN stack.
@@ -11,7 +31,7 @@
 - 😄 Pronouns: Him or his
 - ⚡ Fun fact: Very Curious
 
-## ✉️ Find me on:
+<!-- ## ✉️ Find me on:
 
 <p align="center">
  <a href="https://github.com/Devansh2000Shaw" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/main/Assets/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -19,7 +39,7 @@
  <a href="mailto:akashshaw8783@gmail.com"> <img src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/main/Assets/gmail.png" alt="Gmail" height="40" width = "40" style="vertical-align:top; margin:4px"></a>
 </p>
 <br />
-<br />
+<br /> -->
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -39,9 +59,19 @@
 
 <br/><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=dark)    
-<br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=dark)
+<div align="center">
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
+ <br/><br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
+ 
+</div>
+
+<div align="center">
+  Show some ❤️ by starring some of the repositories!
+</div>
 
 <!-- <a href="https://github.com/Devansh2000Shaw/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh2000Shaw&repo=Music" />
