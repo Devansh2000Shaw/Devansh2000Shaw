@@ -39,5 +39,14 @@
 
 <br/><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=tokyonight)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=dark)    
+<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=dark)
+
+<!-- <a href="https://github.com/Devansh2000Shaw/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh2000Shaw&repo=Music" />
+</a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Devansh_Shaw)](https://github.com/Devansh2000Shaw/Music) -->
+
 
