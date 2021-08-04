@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome
+# Hi there <img src="hii.gif" width="50px"> Welcome
 
 ![Devansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&theme=react-dark&hide_border=true&area=true)
 
