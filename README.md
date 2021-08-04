@@ -1,7 +1,10 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> Welcome
 
 ![Devansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&theme=react-dark&hide_border=true&area=true)
-<img src="hiii.gif" height="400px" width = "400px">
+
+<div align="center"> 
+   <img src="tenor.gif" height="200px" width = "200px">
+</div>
 
 ## About Me
    A 3rd-year B.Tech lad who is a passionate Frontend Web Developer developer, Data-Science Enthusiast.
