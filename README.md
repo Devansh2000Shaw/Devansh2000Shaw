@@ -63,19 +63,28 @@
 
 <br/><br>
 
+## 📈 Github Stats:
 <div align="center">
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
  <br/><br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD&layout=compact)
  
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Devansh2000Shaw&theme=juicyfresh&row=1&no-bg=true&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <div align="center">
   Show some ❤️ by starring some of the repositories!
 </div>
+
+
 
 <!-- <a href="https://github.com/Devansh2000Shaw/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh2000Shaw&repo=Music" />
