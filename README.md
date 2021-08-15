@@ -40,6 +40,8 @@
   </a> -->
 </table>
 
+<div align="center">
+
 <img align="right" alt="Coding" width="400" height="400" style="margin-bottom: -100px" src="Developer activity.gif">
 
 ## 🔭 What I am currenly working on
@@ -63,6 +65,8 @@
 - ⚡ Fun fact: Very Curious
 <br/>
 
+</div>
+   
 <!-- ## ✉️ Find me on:
 
 <p align="center">
