@@ -40,21 +40,28 @@
   </a> -->
 </table>
 
-<img align="right" alt="Coding" width="400" height="400" src="Developer activity.gif"><br/><br/>
+<img align="right" alt="Coding" width="400" height="400" style="margin-bottom: -100px" src="Developer activity.gif">
 
 ## 🔭 What I am currenly working on
+<br/>
 
 - 🔭 I’m currently working on a website related to Mental Awarness.
+<br/>
 
 - 🌱 I’m currently learning Next Js, Data Structure & Algorithms along with MERN stack.
+<br/>
 
 - 👯 I’m looking to collaborate on projects related to Web Development.
+<br/>
 
 - 📫 You can reach me at akashshaw8783@gmail.com
+<br/>
 
 - 😄 Pronouns: Him or his
+<br/>
 
 - ⚡ Fun fact: Very Curious
+<br/>
 
 <!-- ## ✉️ Find me on:
 
@@ -121,5 +128,3 @@
 </a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Devansh_Shaw)](https://github.com/Devansh2000Shaw/Music) -->
-
-
