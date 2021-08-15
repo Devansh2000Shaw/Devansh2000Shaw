@@ -40,7 +40,7 @@
   </a> -->
 </table>
 
-<img align="right" alt="Coding" width="400" height="300" src="tenor.gif">
+<img align="right" alt="Coding" width="400" height="400" src="Developer activity.gif"><br/><br/>
 
 ## 🔭 What I am currenly working on
 
