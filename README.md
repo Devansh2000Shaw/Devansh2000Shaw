@@ -39,6 +39,8 @@
   <a href="https://www.hackerearth.com/ayushsoni1010">
      <img alt="Hackerearth" src="https://img.shields.io/badge/Hackerearth-%230077B5.svg?style=for-the-badge&logo=hackerearth&logoColor=white"/>
   </a>&nbsp;&nbsp; -->
+     <br/>
+     
 </table>
 
 <div style="margin-top: 100px">
