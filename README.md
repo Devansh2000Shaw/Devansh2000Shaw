@@ -1,15 +1,41 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> Welcome
 
-![Devansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&theme=react-dark&hide_border=true&area=true)
+<!-- ![Devansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&theme=react-dark&hide_border=true&area=true) -->
+
 
 <div align="center"> 
-   <img src="tenor.gif" height="200px" width = "200px">
+   <img src="Banner.png" height="300px" width = "2000px">
 </div>
+
+<!-- <div align="center"> 
+   <img src="tenor.gif" height="200px" width = "200px">
+</div> -->
 
 ## About Me
    A 3rd-year B.Tech lad who is a passionate Frontend Web Developer developer, Data-Science Enthusiast.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Devansh2000Shaw.Devansh2000Shaw)
+
+<div style="margin-top: 100px">
+
+<img align="right" alt="Coding" width="400" height="400" src="Developer activity.gif">
+
+## 🔭 What I am currenly working on
+
+- 🔭 I’m currently working on a website related to Mental Awarness.
+
+- 🌱 I’m currently learning Next Js, Data Structure & Algorithms along with MERN stack.
+   
+- 👯 I’m looking to collaborate on projects related to Web Development.
+
+- 📫 You can reach me at akashshaw8783@gmail.com
+
+- 😄 Pronouns: Him or his
+
+- ⚡ Fun fact: Very Curious
+
+</div>
+
 
 ## 📫 Find me on:
 
@@ -17,15 +43,15 @@
   <tr>
     <a href="https://www.linkedin.com/in/devansh-shaw/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:the.akashshaw8783@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/anony_dev">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--     <a href="https://www.instagram.com/anony_dev">
        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-    </a>&nbsp;&nbsp;
-<!--     <a href="https://twitter.com/ayushsoni1010"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://fb.com/ayushsoni1010/">
+    </a> -->
+    <a href="https://twitter.com/ayushsoni1010"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<!--   <a href="https://fb.com/ayushsoni1010/">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp; 
   <a href="https://www.hackerrank.com/ayushsoni1010">
      <img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-%230077B5.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
@@ -42,43 +68,6 @@
      <br/>
      
 </table>
-
-<div style="margin-top: 100px">
-
-<img align="right" alt="Coding" width="400" height="400" src="Developer activity.gif">
-
-## 🔭 What I am currenly working on
-
-
-- 🔭 I’m currently working on a website related to Mental Awarness.
-<br/>
-
-- 🌱 I’m currently learning Next Js, Data Structure & Algorithms along with MERN stack.
-<br/>
-
-- 👯 I’m looking to collaborate on projects related to Web Development.
-<br/>
-
-- 📫 You can reach me at akashshaw8783@gmail.com
-<br/>
-
-- 😄 Pronouns: Him or his
-<br/>
-
-- ⚡ Fun fact: Very Curious
-<br/>
-
-</div>
-   
-<!-- ## ✉️ Find me on:
-
-<p align="center">
- <a href="https://github.com/Devansh2000Shaw" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/main/Assets/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/devansh-shaw-b26a56194/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/main/Assets/linkedin.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:akashshaw8783@gmail.com"> <img src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/main/Assets/gmail.png" alt="Gmail" height="40" width = "40" style="vertical-align:top; margin:4px"></a>
-</p>
-<br />
-<br /> -->
 
 ## 🧰 Languages and Tools:
 <!-- ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
