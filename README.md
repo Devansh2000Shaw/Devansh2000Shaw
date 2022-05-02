@@ -1,24 +1,17 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> Welcome
 
-<!-- ![Devansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&theme=react-dark&hide_border=true&area=true) -->
-
-
 <div align="center"> 
-   <img src="Banner.png" height="300px" width = "2000px">
+   <img src="Banner.png" height="250px" width = "2000px">
 </div>
-
-<!-- <div align="center"> 
-   <img src="tenor.gif" height="200px" width = "200px">
-</div> -->
 
 ## About Me
    A 3rd-year B.Tech lad who is a passionate Frontend Web Developer developer, Data-Science Enthusiast.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Devansh2000Shaw.Devansh2000Shaw)
 
-<div style="margin-top: 100px">
+<div>
 
-<img align="right" alt="Coding" width="400" height="400" src="Developer activity.gif">
+<img align="right" style="margin-top: 100px" alt="Coding" width="300" height="300" src="Developer activity.gif">
 
 ## 🔭 What I am currenly working on
 
@@ -50,7 +43,7 @@
 <!--     <a href="https://www.instagram.com/anony_dev">
        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
     </a> -->
-    <a href="https://twitter.com/ayushsoni1010"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://twitter.com/shaw_devansh"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <!--   <a href="https://fb.com/ayushsoni1010/">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp; 
   <a href="https://www.hackerrank.com/ayushsoni1010">
@@ -98,31 +91,20 @@
 
 ## 📈 Github Stats:
 <div align="center">
+   
+<a href="http://www.github.com/Devansh2000Shaw"><img src="https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+   
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Devansh2000Shaw&theme=juicyfresh&row=1&no-bg=true&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&bg_color=131B40&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&bg_color=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
  <br/><br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD&layout=compact)
-
-<a href="http://www.github.com/Devansh2000Shaw"><img src="https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&bg_color=131B40&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
 </div>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Devansh2000Shaw&theme=juicyfresh&row=1&no-bg=true&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <p style="font-weight: "bold";>Show some ❤️ by starring some of the repositories!</p>
 </div>
-
-<div align="center">
-  Show some ❤️ by starring some of the repositories!
-</div>
-
-
-
-<!-- <a href="https://github.com/Devansh2000Shaw/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh2000Shaw&repo=Music" />
-</a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Devansh_Shaw)](https://github.com/Devansh2000Shaw/Music) -->
