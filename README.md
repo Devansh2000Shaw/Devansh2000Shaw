@@ -24,33 +24,52 @@
     <a href="https://www.instagram.com/anony_dev">
        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
     </a>&nbsp;&nbsp;
-<!--   <a href="https://twitter.com/ayushsoni1010"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://fb.com/ayushsoni1010/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a> -->
-<!--   <a href="https://www.hackerrank.com/ayushsoni1010">
+<!--     <a href="https://twitter.com/ayushsoni1010"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://fb.com/ayushsoni1010/">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp; 
+  <a href="https://www.hackerrank.com/ayushsoni1010">
      <img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-%230077B5.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/ayushsoni1010">
      <img alt="Codechef" src="https://img.shields.io/badge/Codechef-D14836?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://dev.to/ayushsoni1010">
      <img alt="Dev" src="https://img.shields.io/badge/Dev-D14836?style=for-the-badge&logo=dev&logoColor=white"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.hackerearth.com/ayushsoni1010">
      <img alt="Hackerearth" src="https://img.shields.io/badge/Hackerearth-%230077B5.svg?style=for-the-badge&logo=hackerearth&logoColor=white"/>
-  </a> -->
+  </a>&nbsp;&nbsp; -->
+     <br/>
+     
 </table>
 
-<img align="right" alt="Coding" width="400" height="300" src="tenor.gif">
+<div style="margin-top: 100px">
+
+<img align="right" alt="Coding" width="400" height="400" src="Developer activity.gif">
 
 ## 🔭 What I am currenly working on
 
-- 🔭 I’m currently working on a website related to Mental Awarness.
-- 🌱 I’m currently learning Next Js, Data Structure & Algorithms along with MERN stack.
-- 👯 I’m looking to collaborate on projects related to Web Development.
-- 📫 You can reach me at akashshaw8783@gmail.com
-- 😄 Pronouns: Him or his
-- ⚡ Fun fact: Very Curious
 
+- 🔭 I’m currently working on a website related to Mental Awarness.
+<br/>
+
+- 🌱 I’m currently learning Next Js, Data Structure & Algorithms along with MERN stack.
+<br/>
+
+- 👯 I’m looking to collaborate on projects related to Web Development.
+<br/>
+
+- 📫 You can reach me at akashshaw8783@gmail.com
+<br/>
+
+- 😄 Pronouns: Him or his
+<br/>
+
+- ⚡ Fun fact: Very Curious
+<br/>
+
+</div>
+   
 <!-- ## ✉️ Find me on:
 
 <p align="center">
@@ -116,5 +135,3 @@
 </a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Devansh_Shaw)](https://github.com/Devansh2000Shaw/Music) -->
-
-
