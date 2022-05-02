@@ -99,11 +99,13 @@
 ## 📈 Github Stats:
 <div align="center">
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&bg_color=131B40&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
  <br/><br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD&layout=compact)
+
+<a href="http://www.github.com/Devansh2000Shaw"><img src="https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&bg_color=131B40&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
 </div>
 
