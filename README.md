@@ -1,19 +1,23 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> Welcome
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> My name is Devansh Shaw
 
 <div align="center"> 
    <img src="Banner.png" height="250px" width = "2000px">
 </div>
 
 ## About Me
-   A 3rd-year B.Tech lad who is a passionate Frontend Web Developer developer, Data-Science Enthusiast.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Devansh2000Shaw.Devansh2000Shaw)
+I’m **Devansh**, a pre-final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.** 🎓
+I'm a pationate **full-stack web developer** and a **competitive coder**. If I talk about my professional experience, I've worked as **Winter Intern @ HighRadius** (worked on React JS, Pytgon, Machine Learning, Java, JDBC, Servlet and MySql). Apart from this, I love being part of different communities and engaging myself in different community works. Presently I’m associated with **KIIT E-Cell**, technical team.
+
+<br/>
 
 <div>
 
 <img align="right" style="margin-top: 100px" alt="Coding" width="300" height="300" src="Developer activity.gif">
-
-## 🔭 What I am currenly working on
+ 
+- 🌍  I'm based in Kolkata, West Bengal, India.
+   
+- 🖥️  See my portfolio at [https://devansh-shaw.netlify.app/.](https://devansh-shaw.netlify.app/)
 
 - 🔭 I’m currently working on a website related to Mental Awarness.
 
@@ -23,12 +27,11 @@
 
 - 📫 You can reach me at akashshaw8783@gmail.com
 
-- 😄 Pronouns: Him or his
-
 - ⚡ Fun fact: Very Curious
 
 </div>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Devansh2000Shaw.Devansh2000Shaw)
 
 ## 📫 Find me on:
 
