@@ -7,7 +7,7 @@
 ## About Me
 
 I’m **Devansh**, a pre-final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.** 🎓
-I'm a pationate **full-stack web developer** and a **competitive coder**. If I talk about my professional experience, I've worked as **Winter Intern @ HighRadius** (worked on React JS, Pytgon, Machine Learning, Java, JDBC, Servlet and MySql). Apart from this, I love being part of different communities and engaging myself in different community works. Presently I’m associated with **KIIT E-Cell**, technical team.
+I'm a passionate **full-stack web developer** and a **competitive coder**. If I talk about my professional experience, I've worked as **Winter Intern @ HighRadius** (worked on React JS, Python, Machine Learning, Java, JDBC, Servlet and MySql). Apart from this, I love being part of different communities and engaging myself in different community works. Presently I’m associated with **KIIT E-Cell**, technical team.
 
 <br/>
 
