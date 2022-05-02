@@ -28,6 +28,9 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 - 📫 You can reach me at akashshaw8783@gmail.com
 
 - ⚡ Fun fact: Very Curious
+   
+<!--NOMINATION FOR STAR GIT LINK CODE-->
+<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
 </div>
 
