@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> My name is Devansh Shaw
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height = "40px"> My name is Devansh Shaw
 
 <div align="center"> 
    <img src="Banner.png" height="250px" width = "2000px">
