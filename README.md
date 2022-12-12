@@ -1,7 +1,9 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height = "40px"> My name is Devansh Shaw
+# Hi 👋 My name is Devansh Shaw
+
+<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height = "40px"> -->
 
 <div align="center"> 
-   <img src="Banner.png" height="250px" width = "2000px">
+   <img src="Banner.png" height="250px">
 </div>
 
 ## About Me
@@ -9,19 +11,18 @@
 I’m **Devansh**, a Final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.** 🎓
 I'm a passionate **full-stack web developer** and a **competitive coder**. If I talk about my professional experience, I am currently working as **Software Engineer Intern @ General Elecric Healthcare**, and previously I've worked as **SDE Intern @ HighRadius** (worked on React JS, Python, Machine Learning, Java, JDBC, Servlet and MySql). Apart from this, I love being part of different communities and engaging myself in different community works.
 
-<br/>
-
 <div>
 
 <img align="right" style="margin-top: 100px" alt="Coding" width="300" height="300" src="Developer activity.gif">
+
  
 - 🌍  I'm based in Kolkata, West Bengal, India.
    
-- 🖥️  See my portfolio at [https://devansh-shaw.netlify.app/.](https://devansh-shaw.netlify.app/)
+- 🖥️  Know more about me at [https://devansh-shaw.netlify.app/.](https://devansh-shaw.netlify.app/)
 
-- 🔭 I’m currently working on a website related to Mental Awarness.
+<!-- - 🔭 I’m currently working on a website related to Mental Awarness. -->
 
-- 🌱 I’m currently learning Next Js, Data Structure & Algorithms along with MERN stack.
+- 🌱 I’m currently learning Typescript, Angular JS, and Springoot.
    
 - 👯 I’m looking to collaborate on projects related to Web Development.
 
@@ -98,13 +99,13 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 ## 📈 Github Stats:
 <div align="center">
    
-<a href="http://www.github.com/Devansh2000Shaw"><img src="https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/Devansh2000Shaw"><img src="https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
    
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Devansh2000Shaw&theme=juicyfresh&row=1&no-bg=true&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&bg_color=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
- <br/><br/>
+ &nbsp;
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD&layout=compact)
