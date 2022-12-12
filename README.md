@@ -89,22 +89,20 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 
 <img src="https://user-images.githubusercontent.com/69648058/207167290-416fd6b3-1700-43f0-8329-4daab0df3c60.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
 
-<img src="https://user-images.githubusercontent.com/69648058/207162931-2867f260-bd26-4cc9-b7ac-d15f596c69f9.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+<img src="https://user-images.githubusercontent.com/69648058/207169588-88c19513-3578-4c1b-9c60-75ea41c746a6.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
 
-<img src="https://user-images.githubusercontent.com/69648058/207169069-a23a90cb-0a97-4539-b434-b716793d5438.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+<img src="https://user-images.githubusercontent.com/69648058/207169628-e1e10770-1675-40c8-b4b4-6adb7934903d.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
 
-<img src="https://user-images.githubusercontent.com/69648058/207167290-416fd6b3-1700-43f0-8329-4daab0df3c60.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+<img src="https://user-images.githubusercontent.com/69648058/207169672-7d35fb4c-4ea4-4946-b62c-8bf11a33a584.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
 
-<img width="165" alt="nodejs" src="https://user-images.githubusercontent.com/69648058/207169567-bf23d41a-a933-45e3-b769-5b769757a7ff.png">
+<img src="https://user-images.githubusercontent.com/69648058/207169567-bf23d41a-a933-45e3-b769-5b769757a7ff.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
 
-![mongodb](https://user-images.githubusercontent.com/69648058/207169588-88c19513-3578-4c1b-9c60-75ea41c746a6.png)
-
-![python](https://user-images.githubusercontent.com/69648058/207169628-e1e10770-1675-40c8-b4b4-6adb7934903d.png)
-![javaScript](https://user-images.githubusercontent.com/69648058/207169672-7d35fb4c-4ea4-4946-b62c-8bf11a33a584.png)
-![css](https://user-images.githubusercontent.com/69648058/207169815-9071186a-5fd3-45de-b69e-2120b0910a93.png)
-<img width="253" alt="C++" src="https://user-images.githubusercontent.com/69648058/207169839-ec21ead5-7598-4266-8262-68463d18bf88.png">
+<img src="https://user-images.githubusercontent.com/69648058/207171616-cf0a5f97-ca92-4f98-b170-c8cb87437ec4.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+   
+<img src="https://user-images.githubusercontent.com/69648058/207171481-b06a5594-ea4e-4ae8-9103-5b7eb56e6979.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
 
 </p>
+
 
 <br/><br>
 
