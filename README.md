@@ -1,10 +1,17 @@
-# Hi 👋 My name is Devansh Shaw
+# Hi 👋 There!
 
-<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height = "40px"> -->
+I’m **Devansh**, a Final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.** 🎓
+I'm a passionate **full-stack web developer** and a **competitive coder**. If I talk about my professional experience, I am currently working as **Software Engineer Intern @ General Elecric Healthcare**, and previously I've worked as **SDE Intern @ HighRadius** (worked on React JS, Python, Machine Learning, Java, JDBC, Servlet and MySql). Apart from this, I love being part of different communities and engaging myself in different community works.
 
-<div align="center"> 
-   <img src="Banner.png" height="250px">
-</div>
+<br/>
+
+![Github banner](https://user-images.githubusercontent.com/69648058/207160057-0f9b1a39-3949-41e0-9c0c-7e2b688eb86a.png)
+
+<!-- Hi gif<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height = "40px"> -->
+
+<!-- <div align="center"> 
+   <img src="![Github banner](https://user-images.githubusercontent.com/69648058/207160057-0f9b1a39-3949-41e0-9c0c-7e2b688eb86a.png)" height="250px">
+</div> -->
 
 ## About Me
 
@@ -97,6 +104,7 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 <br/><br>
 
 ## 📈 Github Stats:
+<br/>
 <div align="center">
    
 <!-- <a href="http://www.github.com/Devansh2000Shaw"><img src="https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
