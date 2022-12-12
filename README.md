@@ -13,11 +13,6 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
    <img src="![Github banner](https://user-images.githubusercontent.com/69648058/207160057-0f9b1a39-3949-41e0-9c0c-7e2b688eb86a.png)" height="250px">
 </div> -->
 
-## About Me
-
-I’m **Devansh**, a Final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.** 🎓
-I'm a passionate **full-stack web developer** and a **competitive coder**. If I talk about my professional experience, I am currently working as **Software Engineer Intern @ General Elecric Healthcare**, and previously I've worked as **SDE Intern @ HighRadius** (worked on React JS, Python, Machine Learning, Java, JDBC, Servlet and MySql). Apart from this, I love being part of different communities and engaging myself in different community works.
-
 <div>
 
 <img align="right" style="margin-top: 100px" alt="Coding" width="300" height="300" src="Developer activity.gif">
@@ -31,9 +26,9 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 
 - 🌱 I’m currently learning Typescript, Angular JS, and Springoot.
    
-- 👯 I’m looking to collaborate on projects related to Web Development.
+<!-- - 👯 I’m looking to collaborate on projects related to Web Development. -->
 
-- 📫 You can reach me at akashshaw8783@gmail.com
+- 📫 For collaborations drop a mail at akashshaw8783@gmail.com
 
 - ⚡ Fun fact: Very Curious
    
@@ -87,18 +82,28 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
     <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://user-images.githubusercontent.com/69648058/207162931-2867f260-bd26-4cc9-b7ac-d15f596c69f9.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+
+<img src="https://user-images.githubusercontent.com/69648058/207169069-a23a90cb-0a97-4539-b434-b716793d5438.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+
+<img src="https://user-images.githubusercontent.com/69648058/207167290-416fd6b3-1700-43f0-8329-4daab0df3c60.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+
+<img src="https://user-images.githubusercontent.com/69648058/207162931-2867f260-bd26-4cc9-b7ac-d15f596c69f9.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+
+<img src="https://user-images.githubusercontent.com/69648058/207169069-a23a90cb-0a97-4539-b434-b716793d5438.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+
+<img src="https://user-images.githubusercontent.com/69648058/207167290-416fd6b3-1700-43f0-8329-4daab0df3c60.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
+
+<img width="165" alt="nodejs" src="https://user-images.githubusercontent.com/69648058/207169567-bf23d41a-a933-45e3-b769-5b769757a7ff.png">
+
+![mongodb](https://user-images.githubusercontent.com/69648058/207169588-88c19513-3578-4c1b-9c60-75ea41c746a6.png)
+
+![python](https://user-images.githubusercontent.com/69648058/207169628-e1e10770-1675-40c8-b4b4-6adb7934903d.png)
+![javaScript](https://user-images.githubusercontent.com/69648058/207169672-7d35fb4c-4ea4-4946-b62c-8bf11a33a584.png)
+![css](https://user-images.githubusercontent.com/69648058/207169815-9071186a-5fd3-45de-b69e-2120b0910a93.png)
+<img width="253" alt="C++" src="https://user-images.githubusercontent.com/69648058/207169839-ec21ead5-7598-4266-8262-68463d18bf88.png">
+
 </p>
 
 <br/><br>
