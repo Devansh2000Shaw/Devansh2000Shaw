@@ -103,9 +103,6 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 
 </p>
 
-
-<br/><br>
-
 ## 📈 Github Stats:
 <br/>
 <div align="center">
