@@ -7,11 +7,6 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 
 ![Github banner](https://user-images.githubusercontent.com/69648058/207160057-0f9b1a39-3949-41e0-9c0c-7e2b688eb86a.png)
 
-<!-- Hi gif<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height = "40px"> -->
-
-<!-- <div align="center"> 
-   <img src="![Github banner](https://user-images.githubusercontent.com/69648058/207160057-0f9b1a39-3949-41e0-9c0c-7e2b688eb86a.png)" height="250px">
-</div> -->
 
 <div>
 
@@ -49,9 +44,6 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
     <a href="mailto:the.akashshaw8783@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!--     <a href="https://www.instagram.com/anony_dev">
-       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-    </a> -->
     <a href="https://twitter.com/shaw_devansh"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <!--   <a href="https://fb.com/ayushsoni1010/">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp; 
@@ -72,15 +64,6 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 </table>
 
 ## 🧰 Languages and Tools:
-<!-- ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-    Data Analysis <br/>
-    <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> -->
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/69648058/207162931-2867f260-bd26-4cc9-b7ac-d15f596c69f9.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
