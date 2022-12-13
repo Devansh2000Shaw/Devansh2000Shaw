@@ -66,33 +66,33 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 ## 🧰 Languages and Tools:
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/69648058/207162931-2867f260-bd26-4cc9-b7ac-d15f596c69f9.png" alt="React" height="40" style="vertical-align:top; margin-right: 10px">
-
-<img src="https://user-images.githubusercontent.com/69648058/207169069-a23a90cb-0a97-4539-b434-b716793d5438.png" alt="Java" height="40" style="vertical-align:top; margin-right: 10px">
-
-<img src="https://user-images.githubusercontent.com/69648058/207167290-416fd6b3-1700-43f0-8329-4daab0df3c60.png" alt="Firebase" height="40" style="vertical-align:top; margin-right: 10px">
-
-<img src="https://user-images.githubusercontent.com/69648058/207169588-88c19513-3578-4c1b-9c60-75ea41c746a6.png" alt="MongoDB" height="40" style="vertical-align:top; margin-right: 10px">
-
-<img src="https://user-images.githubusercontent.com/69648058/207169628-e1e10770-1675-40c8-b4b4-6adb7934903d.png" alt="Python" height="40" style="vertical-align:top; margin-right: 10px">
-
-<img src="https://user-images.githubusercontent.com/69648058/207169672-7d35fb4c-4ea4-4946-b62c-8bf11a33a584.png" alt="JavaScript" height="40" style="vertical-align:top; margin-right: 10px">
-
-<img src="https://user-images.githubusercontent.com/69648058/207169567-bf23d41a-a933-45e3-b769-5b769757a7ff.png" alt="Node JS" height="40" style="vertical-align:top; margin-right: 10px">
-
-<img src="https://user-images.githubusercontent.com/69648058/207171616-cf0a5f97-ca92-4f98-b170-c8cb87437ec4.png" alt="MySQL" height="40" style="vertical-align:top; margin-right: 10px">
-   
-<img src="https://user-images.githubusercontent.com/69648058/207171481-b06a5594-ea4e-4ae8-9103-5b7eb56e6979.png" alt="Git" height="40" style="vertical-align:top; margin-right: 10px">
- 
-<img src="https://user-images.githubusercontent.com/69648058/207325090-afe61bb4-4533-4ef0-bd68-5e524110027a.png" alt="CSS" height="40" style="vertical-align:top; margin-right: 10px">
-
-<img src="https://user-images.githubusercontent.com/69648058/207325162-40566791-9349-44f1-aeed-9f9284deb0ac.png" alt="Netlify" height="40" style="vertical-align:top; margin-right: 10px">
-   
-<img src="https://user-images.githubusercontent.com/69648058/207324159-2064c67b-e71b-4b88-a0b0-7e603d3df790.png" alt="C++" height="40" style="vertical-align:top; margin-right: 10px">
- 
-<img src="https://user-images.githubusercontent.com/69648058/207326025-1903321b-28e5-4dc8-818e-490384bfabb0.png" alt="Postman" height="40" style="vertical-align:top; margin-right: 10px">
- 
-<img src="https://user-images.githubusercontent.com/69648058/207325126-4f6b2153-602b-4b16-a001-b844544e3fc5.png" alt="HTML" height="40" style="vertical-align:top; margin-right: 10px">
+<img src="https://user-images.githubusercontent.com/69648058/207162931-2867f260-bd26-4cc9-b7ac-d15f596c69f9.png" alt="React" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207169069-a23a90cb-0a97-4539-b434-b716793d5438.png" alt="Java" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207167290-416fd6b3-1700-43f0-8329-4daab0df3c60.png" alt="Firebase" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207169588-88c19513-3578-4c1b-9c60-75ea41c746a6.png" alt="MongoDB" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207169628-e1e10770-1675-40c8-b4b4-6adb7934903d.png" alt="Python" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207169672-7d35fb4c-4ea4-4946-b62c-8bf11a33a584.png" alt="JavaScript" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207169567-bf23d41a-a933-45e3-b769-5b769757a7ff.png" alt="Node JS" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207171616-cf0a5f97-ca92-4f98-b170-c8cb87437ec4.png" alt="MySQL" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207171481-b06a5594-ea4e-4ae8-9103-5b7eb56e6979.png" alt="Git" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207325090-afe61bb4-4533-4ef0-bd68-5e524110027a.png" alt="CSS" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207325162-40566791-9349-44f1-aeed-9f9284deb0ac.png" alt="Netlify" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207324159-2064c67b-e71b-4b88-a0b0-7e603d3df790.png" alt="C++" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207326025-1903321b-28e5-4dc8-818e-490384bfabb0.png" alt="Postman" height="40">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/69648058/207325126-4f6b2153-602b-4b16-a001-b844544e3fc5.png" alt="HTML" height="40">
 
 </p>
 
@@ -110,6 +110,8 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD&layout=compact)
+ 
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devansh2000Shaw&theme=github_dark&background=000000"> -->
  
 </div>
 
