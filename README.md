@@ -113,10 +113,10 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Devansh2000Shaw&theme=juicyfresh&row=1&no-bg=true&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&bg_color=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
-  &nbsp;
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD&layout=compact)
  
 </div>
 
