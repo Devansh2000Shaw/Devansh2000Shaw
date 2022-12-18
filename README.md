@@ -98,23 +98,31 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 </p>
 
 ## 📈 Github Stats:
-<br/>
-<div align="center">
    
 <!-- <a href="http://www.github.com/Devansh2000Shaw"><img src="https://activity-graph.herokuapp.com/graph?username=Devansh2000Shaw&bg_color=000000&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-   
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Devansh2000Shaw&theme=juicyfresh&row=1&no-bg=true&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&bg_color=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD)
+ <details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br/>
+  <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Devansh2000Shaw&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&bg_color=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD" /> &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD&layout=compact" height="194px"/>
+  </p>
+</details>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBD&layout=compact)
+<details>
+ <summary><b>🔥 Github Streaks</b></summary>
+ <br/>
+ <p align = "center" style = "margin-top: 20px"> <img src = "https://github-readme-streak-stats.herokuapp.com?user=Devansh2000Shaw&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" /> </p>
+</details>
+
+<details>
+ <summary><b>🏆 Github Achievements</b></summary>
+ <br/>
+<p align = "center" style = "margin-top: 20px"> <img src = "https://github-profile-trophy.vercel.app/?username=Devansh2000Shaw&theme=juicyfresh&row=1&no-bg=true&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy" /> </p>
+</details>
  
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devansh2000Shaw&theme=github_dark&background=000000"> -->
- 
-</div>
 
 <hr>
 <p align="center">
