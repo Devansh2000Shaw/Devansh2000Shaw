@@ -1,6 +1,6 @@
 # Hi 👋 There!
 
-I’m **Devansh**, a Final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India.** 🎓
+I’m **Devansh**, a Final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India 🎓.** 
 I'm a passionate **full-stack web developer** and a **competitive coder**. If I talk about my professional experience, I am currently working as **Software Engineer Intern @ General Elecric Healthcare**, and previously I've worked as **SDE Intern @ HighRadius** (worked on React JS, Python, Machine Learning, Java, JDBC, Servlet and MySql). Apart from this, I love being part of different communities and engaging myself in different community works.
 
 <br/>
@@ -12,6 +12,7 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 
 <img align="right" style="margin-top: 100px" alt="Coding" width="300" height="300" src="Developer activity.gif">
 
+### More about me:
  
 - 🌍  I'm based in Kolkata, West Bengal, India.
    
@@ -115,6 +116,8 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
  
 </div>
 
-<div align="center">
-  <p style="font-weight: "bold";>Show some ❤️ by starring some of the repositories!</p>
-</div>
+<hr>
+<p align="center">
+    <i>Show some ❤️ by starring some of the repositories and let's get in touch!</i><br><br>
+   <img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
