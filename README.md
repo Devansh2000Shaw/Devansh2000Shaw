@@ -1,12 +1,10 @@
 # Hi 👋 There!
 
-I’m **Devansh**, a Final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India 🎓.** 
-I'm a passionate **full-stack web developer** and a **competitive coder**. If I talk about my professional experience, I am currently working as **Software Engineer Intern @ General Elecric Healthcare**, and previously I've worked as **SDE Intern @ HighRadius** (worked on React JS, Python, Machine Learning, Java, JDBC, Servlet and MySql). Apart from this, I love being part of different communities and engaging myself in different community works.
-
-<br/>
 
 ![Github banner](https://user-images.githubusercontent.com/69648058/207160057-0f9b1a39-3949-41e0-9c0c-7e2b688eb86a.png)
 
+I’m **Devansh**, a Final year **B.Tech CSE**, undergraduate student at **Kalinga Institute of Industrial Technology, BBSR, India 🎓.** 
+I'm a passionate **full-stack web developer 🚀** and a **competitive coder** 💻. If I talk about my professional experience, I am currently working as **Software Engineer Intern @ General Elecric Healthcare**, and previously I've worked as **SDE Intern @ HighRadius** (worked on React JS, Python, Machine Learning, Java, JDBC, Servlet and MySql). Apart from this, I love being part of different communities and engaging myself in different community works ✨.
 
 <div>
 
@@ -24,9 +22,12 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
    
 <!-- - 👯 I’m looking to collaborate on projects related to Web Development. -->
 
-- 📫 For collaborations drop a mail at akashshaw8783@gmail.com
+- 📫 For Web Development project collaborations drop a mail.
 
-- ⚡ Fun fact: Very Curious
+- 💡 Fun fact: Very Curious for every tech stack.
+ 
+- 🎿 When not coding, I binge watch series, listen to music or collect coins.
+ 
    
 <!--NOMINATION FOR STAR GIT LINK CODE-->
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
@@ -64,7 +65,7 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
      
 </table>
 
-## 🧰 Languages and Tools:
+## 🛠 Languages and Tools:
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/69648058/207162931-2867f260-bd26-4cc9-b7ac-d15f596c69f9.png" alt="React" height="40">
@@ -94,6 +95,35 @@ I'm a passionate **full-stack web developer** and a **competitive coder**. If I 
 <img src="https://user-images.githubusercontent.com/69648058/207326025-1903321b-28e5-4dc8-818e-490384bfabb0.png" alt="Postman" height="40">
 &nbsp;
 <img src="https://user-images.githubusercontent.com/69648058/207325126-4f6b2153-602b-4b16-a001-b844544e3fc5.png" alt="HTML" height="40">
+ 
+<!-- - Programming languages:
+ <br/><br/>
+ <img src="https://user-images.githubusercontent.com/69648058/207324159-2064c67b-e71b-4b88-a0b0-7e603d3df790.png" alt="C++" height="40">&nbsp;
+ <img src="https://user-images.githubusercontent.com/69648058/207169069-a23a90cb-0a97-4539-b434-b716793d5438.png" alt="Java" height="40">&nbsp;
+ <img src="https://user-images.githubusercontent.com/69648058/207169672-7d35fb4c-4ea4-4946-b62c-8bf11a33a584.png" alt="JavaScript" height="40">&nbsp;
+ <img src="https://user-images.githubusercontent.com/69648058/207169628-e1e10770-1675-40c8-b4b4-6adb7934903d.png" alt="Python" height="40">&nbsp;
+ 
+- Frontend:
+ <br/><br/>
+ <img src="https://user-images.githubusercontent.com/69648058/207325126-4f6b2153-602b-4b16-a001-b844544e3fc5.png" alt="HTML" height="40">&nbsp;
+ <img src="https://user-images.githubusercontent.com/69648058/207325090-afe61bb4-4533-4ef0-bd68-5e524110027a.png" alt="CSS" height="40">&nbsp;
+ <img src="https://user-images.githubusercontent.com/69648058/207162931-2867f260-bd26-4cc9-b7ac-d15f596c69f9.png" alt="React" height="40">&nbsp;
+ 
+- Backend:
+ <br/><br/>
+ <img src="https://user-images.githubusercontent.com/69648058/207167290-416fd6b3-1700-43f0-8329-4daab0df3c60.png" alt="Firebase" height="40">&nbsp;
+ <img src="https://user-images.githubusercontent.com/69648058/207169567-bf23d41a-a933-45e3-b769-5b769757a7ff.png" alt="Node JS" height="40">&nbsp;
+ <img src="https://user-images.githubusercontent.com/69648058/207326025-1903321b-28e5-4dc8-818e-490384bfabb0.png" alt="Postman" height="40">&nbsp;
+ 
+- Databases:
+ <br/><br/>
+ <img src="https://user-images.githubusercontent.com/69648058/207171616-cf0a5f97-ca92-4f98-b170-c8cb87437ec4.png" alt="MySQL" height="40">&nbsp;
+ <img src="https://user-images.githubusercontent.com/69648058/207169588-88c19513-3578-4c1b-9c60-75ea41c746a6.png" alt="MongoDB" height="40">&nbsp;
+ 
+- IDE & Tools: 
+ <br/><br/>
+ <img src="https://user-images.githubusercontent.com/69648058/207171481-b06a5594-ea4e-4ae8-9103-5b7eb56e6979.png" alt="Git" height="40">&nbsp;
+ <img src="https://user-images.githubusercontent.com/69648058/207325162-40566791-9349-44f1-aeed-9f9284deb0ac.png" alt="Netlify" height="40">&nbsp; -->
 
 </p>
 
